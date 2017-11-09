@@ -1,0 +1,42 @@
+/*CSS Landing Page*/
+
+body {
+	background-image: url(https://images.unsplash.com/photo-1497120573086-6219573cf71c?auto=format&fit=crop&w=1652&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: Lato;
+
+}
+
+html {
+	height: 100%;
+}
+
+h1, h3 {
+	color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+	color: #edeeef;
+	text-shadow: 2px 2px black;
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 1.5em;
+	text-shadow: .5px .5px black;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+
+}
+
+
+
+
+
